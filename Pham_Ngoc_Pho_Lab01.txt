@@ -1,0 +1,5 @@
+﻿Sinh vien: Pham_Ngoc_Pho
+Ma sinh vien: 23IT212
+Hoc phan: IS2023 - Dien toan dam may
+Bai: Git Tutorial for beginners
+Truong: VKU - DH Da Nang
